@@ -6,8 +6,7 @@
 ╩ ╩╚═╝╚═╝╩ ╩╩═╝╚═╝═╩╝╚═╝╝╚╝  ╩ ╩═╩╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=72&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&height=160&lines=ᴍᴇɢᴀʟᴏᴅᴏɴ+ᴍᴅ;ᴍᴜʟᴛɪ+ᴅᴇᴠɪᴄᴇ+ᴡʜᴀᴛsᴀᴘᴘ+ʙᴏᴛ;ᴄʀᴇᴀᴛᴇᴅ+ʙʏ+D%CA%8F%CA%99%CA%8F+T%C9%9B%C6%88%C9%A6X" alt="Dyby" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=72&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&height=160&lines=ᴍᴇɢᴀʟᴏᴅᴏɴ+ᴍᴅ;ᴍᴜʟᴛɪ+ᴅᴇᴠɪᴄᴇ+ᴡʜᴀᴛsᴀᴘᴘ+ʙᴏᴛ;ᴄʀᴇᴀᴛᴇᴅ+ʙʏ+ᴅʏʙʏ+ᴛᴇᴄʜx" alt="MEGALODON-MD" />
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/DybyTechX?color=00ffff&style=flat-square&logo=github&label=Followers)](https://github.com/DybyTechX)
