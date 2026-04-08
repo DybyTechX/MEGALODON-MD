@@ -6,7 +6,7 @@
 ╩ ╩╚═╝╚═╝╩ ╩╩═╝╚═╝═╩╝╚═╝╝╚╝  ╩ ╩═╩╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=72&pause=800&color=FF0033&center=true&vCenter=true&width=1000&height=160&lines=𝐌𝐄𝐆𝐀𝐋𝐎𝐃𝐎𝐍-𝐌𝐃;ʜᴀᴄᴋᴇʀ+ᴡʜᴀᴛsᴀᴘᴘ+ʙᴏᴛ;ᴘᴏᴡᴇʀᴇᴅ+ʙʏ+Dʏʙʏ+TɛƈɦX" alt="Dyby" />
+<img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=72&pause=800&color=FF0033&center=true&vCenter=true&width=1000&height=160&lines=MEGALODON-MD;WHATSAPP+BOT;CREATED+BY+Dʏʙʏ+TɛƈɦX" alt="Dyby" />
 
 [![GitHub followers](https://img.shields.io/github/followers/DybyTechX?color=00ffff&style=flat-square&logo=github&label=Followers)](https://github.com/DybyTechX)
 [![Stars](https://img.shields.io/github/stars/DybyTechX/MEGALODON-MD?color=ff00ff&style=flat-square&logo=github&label=Stars)](https://github.com/DybyTechX/MEGALODON-MD/stargazers)
